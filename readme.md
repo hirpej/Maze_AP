@@ -1,6 +1,4 @@
 <center>
-<h1>
-In The Name Of ALLAH
 </h1>
 <h2>
 Advanced Programming - Midterm Project
