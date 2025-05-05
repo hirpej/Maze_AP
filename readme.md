@@ -1,14 +1,4 @@
-<center>
-</h1>
-<h2>
-Advanced Programming - Midterm Project
-</h2>
-<h2>
-Dr.Amir Jahanshahi
-</h2>
-<h3>
-Deadline: Thursday, 6 Khordad - 23:00
-</center>
+
   
 # Introduction
 
